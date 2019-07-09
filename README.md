@@ -1,2 +1,2 @@
 # one-page-responsive
-Team-3 one page project 
+Team-3 can access
